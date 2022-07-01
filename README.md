@@ -26,8 +26,6 @@ Tahapan pre-processing visualisasi data (setelah analisis sentimen):
 Proses analisis dilakukan dengan mentranslate tweet ke dalam bahasa Inggris menggunakan Google Translate, kemudian dilanjutkan dengan analisis sentimen menggunakan TextBlob. Terdapat dua jenis hasil dari proses ini, yaitu sentiment dan subjectivity. Sentiment terdiri dari positive (polarity > 0), netral (polarity = 0), dan negatif (polarity < 0). Sedangkan subjecticity terdiri dari subjektif (subjectivity > 0,5) dan objektif (subjectivity < 0,5). Berikut adalah hasil yang diperoleh.
 <p align="center">
   <img 
-    width="300"
-    height="300"
     src="https://user-images.githubusercontent.com/99953890/176854431-96655985-5fcc-4408-9bf5-f7ed9a2ffb28.png"
   >
 </p>
@@ -37,8 +35,6 @@ Terlihat bahwa mayoritas tweet, yaitu sebesar 42,9% tweet, memberikan sentimen p
 Berikut adalah hasil visualisasi data teks yang digunakan untuk analisis sentimen.
 <p align="center">
   <img 
-    width="300"
-    height="300"
     src="https://user-images.githubusercontent.com/99953890/176854467-adda73c9-be8d-41a7-965d-e4ac4d4ff027.png"
   >
 </p>
